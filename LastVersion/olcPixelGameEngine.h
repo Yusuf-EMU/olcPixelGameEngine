@@ -35,7 +35,7 @@
 
 	As a result, the olcPixelGameEngine supports 32-bit colour, is written in a
 	cross-platform style, uses modern(ish) C++ conventions and most importantly,
-	renders much much faster. I	will use this version when my applications are
+	renders much much faster. I will use this version when my applications are
 	predominantly graphics based, but use the console version when they are
 	predominantly text based - Don't worry, loads more command prompt silliness to
 	come yet, but evolution is important!!
@@ -59,7 +59,7 @@
 	be used to endorse or promote products derived from this software without specific
 	prior written permission.
 
-	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS	"AS IS" AND ANY
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
 	EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 	OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
 	SHALL THE COPYRIGHT	HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
@@ -135,7 +135,7 @@
 
 	Author
 	~~~~~~
-	David Barr, aka javidx9, ©OneLoneCoder 2018, 2019
+	David Barr, aka javidx9, Â©OneLoneCoder 2018, 2019
 */
 
 //////////////////////////////////////////////////////////////////////////////////////////
